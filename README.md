@@ -1,5 +1,10 @@
-* You look in the README.md file, expecting to see an about me page.
-* There's nothing but an annoying dog.
+Greetings! I am Inkety.
+
+There's a number of things I'm not good at!
+
+* Programming
+* Pixel art
+* Minecraft
 
  ▄▀▄▀▀▀▀▄▀▄
  █         ▀▄     ▄
