@@ -1,6 +1,6 @@
 Hi there! I'm Inkety.
 
-There's a number of things I'm not good at!
+Here's some things I tell myself I'm good at.
 
 * Programming
 * Pixel art
