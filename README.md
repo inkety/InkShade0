@@ -1,6 +1,6 @@
-Hi there! I'm Inkety.
+hey there! Inkety here.
 
-Here's some things I tell myself I'm good at.
+here's some things I tell myself I'm good at.
 
 * Programming
 * Pixel art
